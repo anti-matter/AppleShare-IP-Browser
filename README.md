@@ -38,6 +38,8 @@ To simplify connecting to a server a bit, I combined entering the IP address of 
 </p>
 
 ## Browsing
+Browsing is accomplished by choosing a volume from the volume list, then navigating in the lower list down through the files and folders on the share. Items in bold are folders and when double-clicked, you will traverse into the folder's contents.
+
 <p align="center">
   <img style="width: 50%; height=50%" src="https://github.com/user-attachments/assets/f9693979-e6d0-47c9-a6b8-ef8a7958791f"/>
 </p>
