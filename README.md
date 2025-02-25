@@ -14,8 +14,6 @@ Let me get started by saying that I wrote this application because it filled a n
 
 What sort of worked was installing OpenTransport (with System 7.1 or later) and then copying over the AppleShare client that came with MacOS 8.0, AppleShare Client 3.7.1. Using another version on a 68K mac would crash the machine as soon as you mount an AppleShare IP volume.
 
-But even with AppleShare Client 3.7.1, I ran into problems. Copying files from the mac to an AppleShare IP volume on one of these hacked macs would often cause file corruption.
-
 So, I began writing my own AppleShare IP client so I could access shares not only on my MacOS 9 macs, but also on my Haiku and Windows machines. And, so it works on the older macs, support for MacTCP was a must since 68000 machines don't support OpenTransport.
 
 To checkout my AppleShare IP Server for Haiku, just visit the following link to download and use it for free. https://github.com/anti-matter/MacFile_For_HaikuOS
