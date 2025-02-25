@@ -9,7 +9,7 @@
 Let me get started by saying that I wrote this application because it filled a need I have, which is to quickly and reliably access files on a central server from Macs that I'm restoring (see Figure 1 as an example). Due to server reliability and availability, I run an AppleShare IP server on either my Windows or Haiku OS machines (mostly my Haiku machine). So, while servers on these system can be accessed from OS 8.0 and later with no issue, gaining access to them from older OS's can be challenging, particularly where OpenTransport is not desired, or an option.
 
 <p align="center">
-  <img style="width: 50%; height=50%" src="https://github.com/user-attachments/assets/f89b5dbd-e74b-4ed6-8e4a-9a84d559c856"/>
+  <img style="width: 50%; height=50%" src="https://github.com/user-attachments/assets/e41332a2-6694-4049-af02-87aea58bb96d"/>
 </p>
 
 What sort of worked was installing OpenTransport (with System 7.1 or later) and then copying over the AppleShare client that came with MacOS 8.0, AppleShare Client 3.7.1. Using another version on a 68K mac would crash the machine as soon as you mount an AppleShare IP volume.
@@ -23,10 +23,10 @@ To checkout my AppleShare IP Server for Haiku or Windows, just visit the followi
 ## System Requirements
 
 To run the AppleShare IP Browser, you need:
-    - System 7.0 or later
-    - MacTCP or OpenTransport installed and configured
-    - A 680x0 or PowerPC Macintosh
-    - At least 2mb of free RAM
+- System 7.0 or later
+- MacTCP or OpenTransport installed and configured
+- A 680x0 or PowerPC Macintosh
+- At least 2mb of free RAM
 
 If you end up low on RAM while transfering a large number of files, try increasing the RAM allocated to the application so it has more room to build the transfer tables.
 
