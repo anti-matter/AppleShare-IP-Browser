@@ -16,7 +16,7 @@ What sort of worked was installing OpenTransport (with System 7.1 or later) and 
 
 So, I began writing my own AppleShare IP client so I could access shares not only on my MacOS 9 macs, but also on my Haiku and Windows machines. And, so it works on the older macs, support for MacTCP was a must since 68000 machines don't support OpenTransport.
 
-To checkout my AppleShare IP Server for Haiku or Windows, just visit the following links to download and use it for free.
+To checkout my AppleShare IP Server for Haiku or Windows, just visit the following links to download and use them for free (some day I will get the naming straight between the two).
 - https://github.com/anti-matter/MacFile_For_HaikuOS
 - https://github.com/anti-matter/Windows_AFP_Server
 
