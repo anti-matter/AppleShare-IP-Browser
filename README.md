@@ -24,6 +24,7 @@ To checkout my AppleShare IP Server for Haiku or Windows, just visit the followi
 
 To run the AppleShare IP Browser, you need:
 - System 7.0 or later
+- Thread Manager 2.1
 - MacTCP or OpenTransport installed and configured
 - A 680x0 or PowerPC Macintosh
 - At least 2mb of free RAM
